@@ -1,0 +1,24 @@
+.second_section__style {
+  display: flex;
+  background-color: black;
+}
+
+.second_content_style h1 {
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+}
+.second_content_style h2 {
+  color: rgb(128, 128, 218);
+  font-size: 50px;
+}
+.second_content_style p {
+  color: white;
+}
+.second_content_style {
+  padding-left: 10%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-content: center;
+}

@@ -1,0 +1,112 @@
+.footer1 {
+    height: 100%;
+    background-color: #000000;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color: white;
+    align-content: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  
+  .home-1 {
+    display: flex;
+    flex-direction: column;
+    padding-right: 50px;
+  }
+  .home-1 p {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 10px;
+  }
+  .home-1 p:hover {
+    color: rgb(128, 128, 218);
+  }
+  .social-logos p {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  .social-logos p:hover {
+    color: rgb(128, 128, 218);
+  }
+  #hom {
+    color: rgb(128, 128, 218);
+  }
+  .social-logos {
+    display: flex;
+    flex-direction: column;
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+  .social-logos svg{
+   
+    margin-right: 8px;
+  }
+  .contact-us {
+    display: flex;
+    flex-direction: column;
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+  .contact-us p {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 10px;
+  }
+  .contact-us p:hover {
+    color: rgb(128, 128, 218);
+  }
+  .contact-us h4 {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: white;
+    text-decoration: none;
+    padding: 0%;
+    margin-bottom: 10px;
+  }
+  .contact-us svg {
+    stroke: currentcolor;
+    fill: currentcolor;
+    stroke-width: 0;
+    height: 15;
+    width: 15;
+    padding-right: 10px;
+  }
+  .footer {
+    height: 100%;
+    background-color: black;
+  }
+  .footer-text {
+    display: flex;
+    justify-content: center;
+  }
+  .footer-text h3 {
+    padding-top: 15px; 
+    padding-bottom: 15px; 
+    font-size: 18.6px;
+    color: rgb(107, 107, 107);
+    padding-right: 5px;
+  }
+  .footer-text p {
+    padding-top: 15px; 
+    padding-bottom: 15px; 
+    font-size: 17.6px;
+    color: white;
+    font-weight: bold;
+    
+    padding-right: 5px;
+    text-decoration: none;
+  }
+  .footer-text p:hover {
+    color: rgb(128, 128, 218);
+  }
+  
+  

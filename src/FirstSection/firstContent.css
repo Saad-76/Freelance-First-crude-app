@@ -1,0 +1,33 @@
+.main_div_style {
+  display: flex;
+  background-color: black;
+  flex-wrap: nowrap;
+  align-content: space-around;
+  justify-content: space-evenly;
+  flex-direction: row;
+  align-items: center;
+}
+.first_content-video_style {
+
+  padding-left: 16%;
+  /* padding-bottom: 5%; */
+}
+.first_content_style {
+  padding-left: 30%;
+  padding-right: 8%;
+
+  align-items: flex-end;
+}
+
+.first_content_style h1 {
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+}
+.first_content_style p {
+  color: rgb(128, 128, 218);
+  font-size: 50px;
+}
+.first_content_style h6 {
+  color: white;
+}

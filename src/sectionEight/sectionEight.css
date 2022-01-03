@@ -1,0 +1,28 @@
+.sectionEight_whole__style{
+    display: flex;
+    background-color: black;
+}
+
+.sectionEight_content__style{
+    padding-left: 12%;
+    color: white;
+    padding-top: 6%;
+
+
+}
+
+.sectionEight_content__style h2 {
+    padding-left: 25%;
+    padding-right: 45%;
+
+}
+.sectionEight_content__style p {
+    padding-left: 20%;
+    padding-right: 30%;
+
+}
+.sectionEight_content__style_img {
+    padding-left: 18%;
+    padding-right: 30%;
+
+}

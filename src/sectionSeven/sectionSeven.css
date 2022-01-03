@@ -1,0 +1,13 @@
+.section_saven__style{
+    display: flex;
+    background-color: black;
+}
+.seven_content_style {
+    padding-left: 18%;
+    background-color:  rgb(128, 128, 218);
+align-content: center;
+    align-items: flex-end;
+    padding-right: 16%;
+  }
+
+  

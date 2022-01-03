@@ -1,0 +1,29 @@
+.section_eleven_whole_style{
+    padding-top: 8%;
+    padding-bottom: 8%;
+
+    background-color:rgb(128, 128, 218);
+}
+.section_eleven_whole_style h1{
+padding-left: 40%;
+font-weight: bold;
+/* border-style: groove; */
+
+}
+
+
+.section_eleven_content_style{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10%;
+    padding-right: 8%;
+    
+}
+.sectionEleven_icon__style{
+    display: flex;
+    flex-direction: row;
+padding-top: 3%;}
+.sectionEleven_icon__style p{
+    padding-top: 3%;
+    padding-left: 4%;
+}

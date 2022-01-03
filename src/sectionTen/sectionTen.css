@@ -1,0 +1,48 @@
+.sectionTen_content__style{
+    /* display: flex; */
+padding-top: 3%;
+padding-left: 10%;
+}
+.sectionTen_content__style h2{
+    color: white;
+}
+
+.sectionTen_content__style h3{
+    color: rgb(128, 128, 218);
+
+}
+.sectionTen_content__style span{
+    color: rgb(128, 128, 218);
+    font-weight: bold;
+
+}
+.sectionTen_content__style p{
+    color: white;
+}
+
+.sectionTen_component__style{
+    background-color: black;
+    padding-top: 12%;
+    padding-bottom: 12%;
+
+}
+
+.sectionTen_image__style{
+    padding-left: 22%;
+}
+
+.sectionTen_token__style{
+    padding-top: 5%;
+    padding-left: 8%;
+}
+.sectionTen_token__style h2{
+    padding-left: 40%;
+    color: rgb(128, 128, 218);
+    
+}
+.sectionTen_token__style p{
+    /* padding-left: 40%; */
+color: white;    
+}
+
+

@@ -1,0 +1,21 @@
+.sectionNine_content__style{
+    display: flex;
+    background-color: black;
+}
+.sectionNine_text_style{
+    background-color:  rgb(225, 98, 168);
+}
+
+.sectionNine_text_style p{
+padding-left: 30%;
+padding-right: 30%;
+}
+.sectionNine_text_style h2{
+    padding-left: 30%;
+padding-right: 30%;
+
+}
+.sectionNine_text_style_img{
+    padding-left: 30%;
+    padding-right: 30%; 
+}
